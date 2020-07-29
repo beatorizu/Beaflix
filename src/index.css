@@ -4,13 +4,13 @@
 }
 
 :root {
-  --primary: #2A7AE4;
+  --primary: #229F8F;
   --black: #000000;
   --blackLighter: #9E9E9E;
   --grayLight: #F5F5F5;
-  --grayMedium: #e5e5e5; 
+  --grayMedium: #e5e5e5;
   --white: #FFFFFF;
-  --frontEnd: #6BD1FF;
+  --frontEnd: #3ed6c2;
   --backEnd: #00C86F;
 }
 
@@ -22,4 +22,4 @@ body {
 
 a {
   color: inherit;
-} 
+}
