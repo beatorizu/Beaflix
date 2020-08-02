@@ -35,3 +35,9 @@ a {
     width: 100vw;
   }
 }
+
+#root {
+	min-height: calc(100vh - var(--bodyPaddingTop));
+	display: flex;
+	flex-direction: column;
+}
