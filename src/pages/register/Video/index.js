@@ -1,10 +1,11 @@
 import React from "react";
+import DefaultPage from "../../../components/DefaultPage";
 
 function RegisterVideo() {
   return (
-    <div>
+    <DefaultPage>
       Register Video Page
-    </div>
+    </DefaultPage>
   );
 }
 
